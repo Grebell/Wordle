@@ -2,5 +2,6 @@
 
 `dotnet build --configuration Release` to build in release config
 
-*note, power will take a long time to run, it shows warnings at first but i promise it works
-accepeted args (help/first/middle/algorithm/power)
+*note, power will take a long time to run, it shows warnings at first but I promise it works
+
+accepted args (help/first/middle/algorithm/power)
